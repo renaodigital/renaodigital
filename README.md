@@ -1,5 +1,5 @@
 # 💫 who am i?  i'm not snoop dogg.
-Such a fucking creator.<br>(engineering + tech)<br><br>learning, based in informations ({<br>              sight: 99pp;<br>              touch: 100pp;<br>              hearing: 85pp;<br>              smell: 70pp;<br>              taste: 85pp;<br>})
+such a fucking creator.<br>(engineering + tech)<br><br>learning, based in informations ({<br>              sight: 99pp;<br>              touch: 100pp;<br>              hearing: 85pp;<br>              smell: 70pp;<br>              taste: 85pp;<br>})
 
 
 ## 🌐 doesn't mining, just making connections.
