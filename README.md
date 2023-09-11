@@ -1,4 +1,5 @@
 # 💫 who am i?
+learn & earn
 <br>(engineering + tech)<br><br>learning, based in informations ({<br>              sight: 99pp;<br>              touch: 100pp;<br>              hearing: 85pp;<br>              smell: 70pp;<br>              taste: 85pp;<br>})
 
 
